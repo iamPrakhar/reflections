@@ -1,0 +1,22 @@
+Created my first repo using git init and check git status after creating a new 
+file
+
+
+git add
+git status
+staging area
+
+
+git branch branch_name
+
+git checkout -b branch_name
+
+use of branches??
+
+git show
+
+git merge master coins
+
+git branch -d branch_name // d=delete
+
+
